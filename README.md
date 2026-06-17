@@ -108,7 +108,6 @@ The middleware can be integrated across frontend and backend services.
 
 ---
 
-## Author
-
-Riya Syjan
-B.Tech Information Technology
+Notification API access was attempted using the provided access token.
+Due to authorization issues, sample notification data was used to
+demonstrate the priority notification algorithm and UI functionality.
